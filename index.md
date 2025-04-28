@@ -11,7 +11,7 @@
 var code = "so currently we have added an added";
 ```
 
-- [ ] Turn on my TV 📺 
+- [x] Turn on my TV 📺 
 - [ ] ipl is ipling
-- [x] rcb will win ipl lol
+- [ ] rcb will win ipl lol
 - [ ] ee salla cup namdee
